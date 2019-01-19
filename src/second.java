@@ -1,3 +1,4 @@
 public class second {
-  public second{
+  public second(int home){
+}
 }
